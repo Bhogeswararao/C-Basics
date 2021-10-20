@@ -11,8 +11,8 @@ int main()
 	age=20;
 	cgpa=9.3;
 	//output 
-	printf("%c\n",name);
-	printf("%d\n",age);
-	printf("%f",cgpa);
+	printf("initial of the student is %c\n",name);
+	printf("age of the student is %d\n",age);
+	printf("cgpa of the student is %f",cgpa);
 }
 
